@@ -1,0 +1,8 @@
+name: rag-env
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - pip
+  - python=3.12
+prefix: /opt/miniconda3/envs/rag-env
